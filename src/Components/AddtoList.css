@@ -1,0 +1,13 @@
+.myList{
+ position: absolute;
+ bottom: 15px;
+ right: 50px;
+ padding: 0.5rem;
+ background-color: rgb(20, 151, 216);
+ font-size: 1rem;
+ font-weight: bold;    
+}
+
+.myList:active {
+    background-color : rgb(159, 38, 186);
+  } 

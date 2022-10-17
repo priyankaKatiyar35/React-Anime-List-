@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+ 
+ }
+.App {
+  text-align: center;
+}
+
+.banner-container {
+  position: relative;
+  height: 250px;
+  width: 100%;
+  background:black;
+  overflow: hidden;
+  z-index: -1;
+}
+.banner-container img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+
+
+/*   about search     */
+.search-input {
+  border: none;
+  height: 1.5rem;
+  width: 400px;
+  font-size: 1rem;
+  padding-right: 1rem;
+  border-color: rgb(255, 255, 255);
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.3);
+}
+.input-div{
+  background-color: black;
+}
+
+
+
+
